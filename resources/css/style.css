@@ -12,13 +12,38 @@ h1 {
 }
 
 #header
-p,a{
+.list,a {
   font-family: Helvetica;
   font-size: 18px;
   color: white;
   text-align: center;
+  list-style: none;
+}
+#header
+.list .first {
   padding-bottom: 10px;
 }
+
+#header
+.list .second {
+  padding-bottom: 10px;
+}
+
+#header
+.list .third {
+  padding-bottom: 10px;
+}
+
+#header
+.list .fourth {
+  padding-bottom: 10px;
+}
+
+#header
+.list .fifth {
+  padding-bottom: 10px;
+}
+
 
 #middle
 h2 {
