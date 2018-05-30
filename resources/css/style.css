@@ -19,12 +19,12 @@ h1 {
   text-align: center;
   list-style: none;
 }
+
 #header
 .list .first, .second, .third, .fourth, .fifth {
   padding-bottom: 10px;
+  padding-right: 40px;
 }
-
-
 
 #middle
 h2 {
