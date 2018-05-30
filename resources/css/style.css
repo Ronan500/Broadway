@@ -20,29 +20,10 @@ h1 {
   list-style: none;
 }
 #header
-.list .first {
+.list .first, .second, .third, .fourth, .fifth {
   padding-bottom: 10px;
 }
 
-#header
-.list .second {
-  padding-bottom: 10px;
-}
-
-#header
-.list .third {
-  padding-bottom: 10px;
-}
-
-#header
-.list .fourth {
-  padding-bottom: 10px;
-}
-
-#header
-.list .fifth {
-  padding-bottom: 10px;
-}
 
 
 #middle
