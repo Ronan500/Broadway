@@ -18,12 +18,23 @@ h1 {
   color: white;
   text-align: center;
   list-style: none;
+  text-decoration: none;
+
+}
+
+#header
+.list a:hover {
+  background: grey;
+  border: 0px solid white;
+  color: white;
+  border-radius: 3px;
 }
 
 #header
 .list .first, .second, .third, .fourth, .fifth {
-  padding-bottom: 10px;
+  padding-bottom: 3px;
   padding-right: 40px;
+
 }
 
 #middle
@@ -89,4 +100,12 @@ p,a {
   font-family: Helvetica;
   font-size: 18px;
   color: white;
+}
+
+#footer
+a:hover {
+    background: grey;
+    border: 0px solid white;
+    color: white;
+    border-radius: 3px;
 }
