@@ -93,6 +93,7 @@ strong {
   font-family:  Helvetica;
   font-size: 11px;
   color: white;
+  padding-left: 10px;
 }
 
 #footer
@@ -100,12 +101,14 @@ p,a {
   font-family: Helvetica;
   font-size: 18px;
   color: white;
+  text-align: center;
 }
 
 #footer
 a:hover {
-    background: grey;
+    background: lightgrey;
     border: 0px solid white;
     color: white;
     border-radius: 3px;
+
 }
